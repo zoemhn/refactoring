@@ -1,5 +1,9 @@
 package theater;
 
+/**
+ * This method is not expected to be null.
+ * @null
+ */
 public class Play {
 
     private final String name;
